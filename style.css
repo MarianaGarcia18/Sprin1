@@ -1,0 +1,80 @@
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Texto{
+    width: 500px;
+    padding: 7%;
+    margin: 7%;
+    left: 100;
+    text-align: center;
+}
+
+.Texto{
+    border-width: 2px;
+    border-color: #98c6fb;
+    background-color: white;
+    border-style: solid;
+    position: relative;
+    text-align: center;
+    padding: 100px;
+    margin: 270px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:#98c6fb 8px groove;
+}
+
+.titu{
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.vdc{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.img2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Borde{
+    width: auto;
+    border-width: 2px;
+    border-color: #98c6fb;
+    background-color: white;
+    border-style: solid;
+    position: relative;
+    text-align: center;
+    padding: 100px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border:#98c6fb 8px groove;
+}
+
+.table{
+    display: inline-block;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.table th{
+    border: 3px solid #98c6fb;
+}
+.titulo{
+    text-align: center;
+    margin-top: 5%;
+}
+.img{
+    display: flex;
+    position:static;
+    float: left;
+}
+
+.encbezdo{
+    border: 3px solid #ffffff;
+}
+
+
